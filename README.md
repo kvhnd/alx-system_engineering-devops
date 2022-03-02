@@ -1,1 +1,1 @@
- This repo contains exercixes done to understand shell scripting
+ Repo contains exercises done on shell scripting.
