@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type f -newer /0x02-shell_redirections/12-newest_files | ls -la | tail 
